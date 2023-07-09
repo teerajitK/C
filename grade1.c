@@ -38,8 +38,8 @@ int main() {
     
     // Display result
     printf("\nStudent: %s\n", name);
-    printf("Grade 1: %.2f\n", grade1);
-    printf("Grade 2: %.2f\n", grade2);
+    printf("Computer programing: %.2f\n", grade1);
+    printf("Circuit: %.2f\n", grade2);
     printf("GPA: %.2f\n", gpa);
     
     //check gap and print message
